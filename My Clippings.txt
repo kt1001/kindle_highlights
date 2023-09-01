@@ -2613,3 +2613,198 @@ Building a Second Brain (Forte, Tiago)
 
 If I could leave you with one last bit of advice, it is to chase what excites you. When you are captivated and obsessed by a story, an idea, or a new possibility, don’t just let that moment pass as if it doesn’t matter. Those are the moments that are truly precious, and that no technology can produce for you. Run after your obsessions with everything you have.
 ==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 50 | location 660-662 | Added on Saturday, 12 August 2023 13:46:46
+
+We adopted the view that our job was to find a synthesis between our vision and what customers would accept; it wasn’t to capitulate to what customers thought they wanted or to tell customers what they ought to want.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 54 | location 708-711 | Added on Saturday, 12 August 2023 13:50:09
+
+We could have tried marketing gimmicks, bought a Super Bowl ad, or tried flamboyant public relations (PR) as a way of juicing our gross numbers. That would have given investors the illusion of traction, but only for a short time. Eventually, the fundamentals of the business would win out and the PR bump would pass. Because we would have squandered precious resources on theatrics instead of progress, we would have been in real trouble.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 55 | location 725-729 | Added on Saturday, 12 August 2023 13:50:56
+
+Instead, the way forward is to learn to see every startup in any industry as a grand experiment. The question is not “Can this product be built?” In the modern economy, almost any product that can be imagined can be built. The more pertinent questions are “Should this product be built?” and “Can we build a sustainable business around this set of products and services?” To answer those questions, we need a method for systematically breaking down a business plan into its component parts and testing each part empirically. In other words, we
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 55 | location 725-729 | Added on Saturday, 12 August 2023 13:51:16
+
+Instead, the way forward is to learn to see every startup in any industry as a grand experiment. The question is not “Can this product be built?” In the modern economy, almost any product that can be imagined can be built. The more pertinent questions are “Should this product be built?” and “Can we build a sustainable business around this set of products and services?” To answer those questions, we need a method for systematically breaking down a business plan into its component parts and testing each part empirically.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 56 | location 739-740 | Added on Saturday, 12 August 2023 13:51:47
+
+This is one of the most important lessons of the scientific method: if you cannot fail, you cannot learn.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 56 | location 741-744 | Added on Saturday, 12 August 2023 13:53:41
+
+A true experiment follows the scientific method. It begins with a clear hypothesis that makes predictions about what is supposed to happen. It then tests those predictions empirically. Just as scientific experimentation is informed by theory, startup experimentation is guided by the startup’s vision. The goal of every startup experiment is to discover how to build a sustainable business around that vision.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 58 | location 757-763 | Added on Saturday, 12 August 2023 13:54:56
+
+By building a product instead, albeit a simple one, the company learned much more: It had more accurate data about customer demand because it was observing real customer behavior, not asking hypothetical questions. It put itself in a position to interact with real customers and learn about their needs. For example, the business plan might call for discounted pricing, but how are customer perceptions of the product affected by the discounting strategy? It allowed itself to be surprised when customers behaved in unexpected ways, revealing information Zappos might not have known to ask about. For example, what if customers returned the shoes? Zappos’
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 58 | location 757-763 | Added on Saturday, 12 August 2023 13:55:31
+
+By building a product instead, albeit a simple one, the company learned much more: It had more accurate data about customer demand because it was observing real customer behavior, not asking hypothetical questions. It put itself in a position to interact with real customers and learn about their needs. For example, the business plan might call for discounted pricing, but how are customer perceptions of the product affected by the discounting strategy? It allowed itself to be surprised when customers behaved in unexpected ways, revealing information Zappos might not have known to ask about. For example, what if customers returned the shoes?
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 61 | location 800-801 | Added on Saturday, 12 August 2023 13:57:26
+
+The two most important assumptions entrepreneurs make are what I call the value hypothesis and the growth hypothesis.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 61 | location 801-802 | Added on Saturday, 12 August 2023 13:57:40
+
+The value hypothesis tests whether a product or service really delivers value to customers once they are using it.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 61 | location 807-809 | Added on Saturday, 12 August 2023 13:57:52
+
+For the growth hypothesis, which tests how new customers will discover a product or service, we can do a similar analysis. Once the program is up and running, how will it spread among the employees, from initial early adopters to mass adoption throughout the company?
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 64 | location 843-847 | Added on Saturday, 12 August 2023 14:00:18
+
+Instead, I try to push my team to first answer four questions: Do consumers recognize that they have the problem you are trying to solve? If there was a solution, would they buy it? Would they buy it from us? Can we build a solution for that problem?” The
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 64 | location 841-847 | Added on Saturday, 12 August 2023 14:00:30
+
+Mark Cook is Kodak Gallery’s vice president of products, and he is working to change Kodak Gallery’s culture of development to embrace experimentation. Mark explained, “Traditionally, the product manager says, ‘I just want this.’ In response, the engineer says, ‘I’m going to build it.’ Instead, I try to push my team to first answer four questions: Do consumers recognize that they have the problem you are trying to solve? If there was a solution, would they buy it? Would they buy it from us? Can we build a solution for that problem?”
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 66 | location 877-878 | Added on Saturday, 12 August 2023 14:01:52
+
+As Cook says, “Success is not delivering a feature; success is learning how to solve the customer’s problem.”4
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 78 | location 993-994 | Added on Saturday, 12 August 2023 22:35:00
+
+The Lean Startup method builds capital-efficient companies because it allows startups to recognize that it’s time to pivot sooner, creating less waste of time and money.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 83 | location 1060-1070 | Added on Saturday, 12 August 2023 22:39:35
+
+For example, the venture capitalist Randy Komisar, whose book Getting to Plan B discussed the concept of leaps of faith in great detail, uses a framework of “analogs” and “antilogs” to plot strategy. He explains the analog-antilog concept by using the iPod as an example. “If you were looking for analogs, you would have to look at the Walkman,” he says. “It solved a critical question that Steve Jobs never had to ask himself: Will people listen to music in a public place using earphones? We think of that as a nonsense question today, but it is fundamental. When Sony asked the question, they did not have the answer. Steve Jobs had [the answer] in the analog [version]” Sony’s Walkman was the analog. Jobs then had to face the fact that although people were willing to download music, they were not willing to pay for it. “Napster was an antilog. That antilog had to lead him to address his business in a particular way,” Komisar says. “Out of these analogs and antilogs come a series of unique, unanswered questions. Those are leaps of faith that I, as an entrepreneur, am taking if I go through with this business venture. They are going to make or break my business. In the iPod business, one of those leaps of faith was that people would pay for music.” Of course that leap of faith turned out to be correct.4
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 84 | location 1076-1079 | Added on Saturday, 12 August 2023 22:39:58
+
+What differentiates the success stories from the failures is that the successful entrepreneurs had the foresight, the ability, and the tools to discover which parts of their plans were working brilliantly and which were misguided, and adapt their strategies accordingly.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 86 | location 1099-1105 | Added on Saturday, 12 August 2023 22:42:04
+
+Jeffrey Liker, who has extensively documented the “Toyota Way,” explains it this way: In my Toyota interviews, when I asked what distinguishes the Toyota Way from other management approaches, the most common first response was genchi gembutsu—whether I was in manufacturing, product development, sales, distribution, or public affairs. You cannot be sure you really understand any part of any business problem unless you go and see for yourself firsthand. It is unacceptable to take anything for granted or to rely on the reports of others.6
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 88 | location 1129-1132 | Added on Saturday, 12 August 2023 22:44:05
+
+Startups need extensive contact with potential customers to understand them, so get out of your chair and get to know them. The first step in this process is to confirm that your leap-of-faith questions are based in reality, that the customer has a significant problem worth solving.8
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 90 | location 1157-1165 | Added on Saturday, 12 August 2023 22:46:43
+
+There are two ever-present dangers when entrepreneurs conduct market research and talk to customers. Followers of the just-do-it school of entrepreneurship are impatient to get started and don’t want to spend time analyzing their strategy. They’d rather start building immediately, often after just a few cursory customer conversations. Unfortunately, because customers don’t really know what they want, it’s easy for these entrepreneurs to delude themselves that they are on the right path. Other entrepreneurs can fall victim to analysis paralysis, endlessly refining their plans. In this case, talking to customers, reading research reports, and whiteboard strategizing are all equally unhelpful. The problem with most entrepreneurs’ plans is generally not that they don’t follow sound strategic principles but that the facts upon which they are based are wrong. Unfortunately, most of these errors cannot be detected at the whiteboard because they depend on the subtle interactions between products and customers. If
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 93 | location 1187-1190 | Added on Tuesday, 15 August 2023 18:29:41
+
+minimum viable product (MVP) helps entrepreneurs start the process of learning as quickly as possible.3 It is not necessarily the smallest product imaginable, though; it is simply the fastest way to get through the Build-Measure-Learn feedback loop with the minimum amount of effort.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 93 | location 1191-1191 | Added on Tuesday, 15 August 2023 18:29:49
+
+the goal of the MVP is to begin the process of learning, not end it.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 94 | location 1199-1200 | Added on Tuesday, 15 August 2023 18:30:39
+
+The gross numbers were small because we were selling the product to visionary early customers called early adopters.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 96 | location 1233-1234 | Added on Tuesday, 15 August 2023 18:36:17
+
+The lesson of the MVP is that any additional work beyond what was required to start learning is waste, no matter how important it might have seemed at the time.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 107 | location 1378-1381 | Added on Thursday, 17 August 2023 10:12:09
+
+Thus, for startups, I believe in the following quality principle: If we do not know who the customer is, we do not know what quality is.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 109 | location 1406-1409 | Added on Thursday, 17 August 2023 10:13:53
+
+MVPs require the courage to put one’s assumptions to the test. If customers react the way we expect, we can take that as confirmation that our assumptions are correct. If we release a poorly designed product and customers (even early adopters) cannot figure out how to use it, that will confirm our need to invest in superior design. But we must always ask: what if they don’t care about design in the same way we do?
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 110 | location 1415-1417 | Added on Thursday, 17 August 2023 10:14:06
+
+As you consider building your own minimum viable product, let this simple rule suffice: remove any feature, process, or effort that does not contribute directly to the learning you seek. SPEED BUMPS IN BUILDING AN MVP Building an MVP is not without risks, both real and imagined.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 110 | location 1415-1416 | Added on Thursday, 17 August 2023 10:14:12
+
+As you consider building your own minimum viable product, let this simple rule suffice: remove any feature, process, or effort that does not contribute directly to the learning you seek.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 110 | location 1417-1418 | Added on Thursday, 17 August 2023 10:14:28
+
+Building an MVP is not without risks, both real and imagined. Both can derail a startup effort unless they are understood ahead of time. The most common speed bumps are legal issues, fears about competitors, branding risks, and the impact on morale.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 112 | location 1446-1448 | Added on Thursday, 17 August 2023 10:16:18
+
+Finally, it helps to prepare for the fact that MVPs often result in bad news. Unlike traditional concept tests or prototypes, they are designed to speak to the full range of business questions, not just design or technical ones, and they often provide a needed dose of reality.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 114 | location 1472-1473 | Added on Thursday, 17 August 2023 21:33:54
+
+startup’s job is to (1) rigorously measure where it is right now, confronting the hard truths that assessment reveals, and then (2) devise experiments to learn how to move the real numbers closer to the ideal reflected in the business plan.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 114 | location 1474-1475 | Added on Thursday, 17 August 2023 21:34:08
+
+Most products have some customers, some growth, and some positive results. One of the most dangerous outcomes for a startup is to bumble along in the land of the living dead.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 114 | location 1476-1478 | Added on Thursday, 17 August 2023 21:34:21
+
+We all know stories of epic entrepreneurs who managed to pull out a victory when things seemed incredibly bleak. Unfortunately, we don’t hear stories about the countless nameless others who persevered too long, leading their companies to failure.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 117 | location 1515-1520 | Added on Thursday, 17 August 2023 21:37:39
+
+Innovation accounting works in three steps: first, use a minimum viable product to establish real data on where the company is right now. Without a clear-eyed picture of your current status—no matter how far from the goal you may be—you cannot begin to track your progress. Second, startups must attempt to tune the engine from the baseline toward the ideal. This may take many attempts. After the startup has made all the micro changes and product optimizations it can to move its baseline toward the ideal, the company reaches a decision point. That is the third step: pivot or persevere.
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 118 | location 1527-1531 | Added on Saturday, 26 August 2023 22:54:58
+
+This is an old direct marketing technique in which customers are given the opportunity to preorder a product that has not yet been built. A smoke test measures only one thing: whether customers are interested in trying a product. By itself, this is insufficient to validate an entire growth model. Nonetheless, it can be very useful to get feedback on this assumption before committing more money and other resources to the product. These
+==========
+The Lean Startup (Ries, Eric)
+- Your Highlight on page 121 | location 1560-1562 | Added on Saturday, 26 August 2023 23:00:07
+
+After a while, rather than leave it to the last minute, we began to track our metrics more frequently, tightening the feedback loop with product development. This was even more depressing. Week in, week out, our product changes were having no effect.
+==========
+The Science of Stuck: Breaking Through Inertia to Find Your Path Forward (Frank, Britt)
+- Your Highlight on page 180 | location 2452-2453 | Added on Monday, 28 August 2023 23:52:10
+
+Gaslighting is usually associated with narcissism and high-level abuse, but even healthy people from healthy families participate in non-malicious gaslighting.
+==========
+The Science of Stuck: Breaking Through Inertia to Find Your Path Forward (Frank, Britt)
+- Your Highlight on page 184 | location 2498-2500 | Added on Monday, 28 August 2023 23:54:40
+
+Perfectionism is not a virtue— it is a form of emotional self-harm. Elizabeth Gilbert writes: “Perfectionism is just fear in fancy shoes and a mink coat.” You could also think of perfectionism as self-hatred dressed in diamonds.
+==========
+The Science of Stuck: Breaking Through Inertia to Find Your Path Forward (Frank, Britt)
+- Your Highlight on page 192 | location 2584-2585 | Added on Monday, 28 August 2023 23:59:06
+
+According to the Three C’s of Al-Anon, a support program for families and friends of alcoholics, you didn’t cause the addiction, you can’t control it, and you can’t cure it.
+==========
